@@ -55,7 +55,7 @@ El siguiente JSON para el servicio:
 
 
 el caso de prueba exitoso
-```![el caso de prueba exitoso](https://github.com/user-attachments/assets/5a5f5de3-b414-498b-b10d-92ac09db8620)```
+![el caso de prueba exitoso](https://github.com/user-attachments/assets/5a5f5de3-b414-498b-b10d-92ac09db8620)
 
 
 
