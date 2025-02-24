@@ -51,11 +51,12 @@ El siguiente JSON para el servicio:
       }
     }
   }
-}```
+}
+```
 
 
 el caso de prueba exitoso
-![el caso de prueba exitoso](ASO1.png)   no supe como agregar las imagenes ,asi que solo las subí al repositorio
+![el caso de prueba exitoso](ASO1.png?raw=true)   no supe como agregar las imagenes ,asi que solo las subí al repositorio
 
 
 
