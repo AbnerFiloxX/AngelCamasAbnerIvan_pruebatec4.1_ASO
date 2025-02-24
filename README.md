@@ -55,15 +55,13 @@ El siguiente JSON para el servicio:
 
 
 el caso de prueba exitoso
-![el caso de prueba exitoso](AngelCamasAbnerIvan_pruebatec4.1_ASO
-
-/ASO1.png)
+![el caso de prueba exitoso](ASO1.png)   no supe como agregar las imagenes ,asi que solo las subí al repositorio
 
 
 
 el caso de prueba fallido ,ya que se usó minusculas
-![ASO2](https://github.com/user-attachments/assets/acbc13eb-50d6-498a-9307-ac31643597e2)
+![ASO2](ASO2.png)
 
 y los archivos JAR utilizados
-![ASO3](https://github.com/user-attachments/assets/402c2c54-dbd9-478e-a6e9-d157e7600ba8)
+![ASO3](ASO3.png)
 
