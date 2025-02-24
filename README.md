@@ -55,7 +55,8 @@ El siguiente JSON para el servicio:
 
 
 el caso de prueba exitoso
-![ASO1](https://github.com/user-attachments/assets/be9feb47-c828-4161-9a3b-bfb74374492d)
+![el caso de prueba exitoso](ASO1.png)
+
 el caso de prueba fallido ,ya que se usó minusculas
 ![ASO2](https://github.com/user-attachments/assets/acbc13eb-50d6-498a-9307-ac31643597e2)
 
