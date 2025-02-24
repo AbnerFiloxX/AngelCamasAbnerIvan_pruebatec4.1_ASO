@@ -55,7 +55,9 @@ El siguiente JSON para el servicio:
 
 
 el caso de prueba exitoso
-![el caso de prueba exitoso](ASO1.png)
+![el caso de prueba exitoso](AngelCamasAbnerIvan_pruebatec4.1_ASO
+
+/ASO1.png)
 
 
 
