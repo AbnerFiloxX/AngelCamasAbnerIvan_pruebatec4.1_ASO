@@ -37,7 +37,7 @@ http://localhost:7500/TechArchitecture/helloWorld/v0/simulations/0000
 
 Request del servicio ASO.
 El siguiente JSON para el servicio:
-{
+```{
   "details": {
     "offerType": "CARD_HOLDER",
     "limitAmount": {
@@ -51,7 +51,8 @@ El siguiente JSON para el servicio:
       }
     }
   }
-}
+}```
+
 
 el caso de prueba exitoso
 ![ASO1](https://github.com/user-attachments/assets/be9feb47-c828-4161-9a3b-bfb74374492d)
